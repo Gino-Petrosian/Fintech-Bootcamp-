@@ -1,4 +1,4 @@
-# LABS business model and Digitizing Real Estate !!!!
+# LABS business model and Digitizing Real Estate
 CITING WORK
 
 Fact given in research (1) Another fact given in research (2)

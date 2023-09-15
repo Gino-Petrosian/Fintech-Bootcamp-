@@ -1,4 +1,4 @@
-# LABS business model and Digitizing Real Estate
+# LABS business model and Digitizing Real Estate !!!!
 CITING WORK
 
 Fact given in research (1) Another fact given in research (2)
@@ -35,7 +35,7 @@ have the funds to be able to tap in
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
-
+  
 
 ## LandscapeAnything Fi
 

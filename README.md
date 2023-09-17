@@ -24,14 +24,29 @@ Crowd funding was the primary source of funding where they amounted 12.1 million
 
 ## Business Activities
 
-*What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve?
  
-The problems they are working on resolving is the entry barrier to enter the real estate investment industry./. The current Real Estate products widley available such as REIT, E
+Traditionally, Real estate investments to develop commercial assets have been dominated by institutional investors. Individual investors are typically limited to residential properties (3). LABS intends to extend market participation by resolving these key pain points in Real Estate Investing; High Entry and Exit costs, REITS (sellable only to local markets), Difficult Access to a Global Portfolio, Liquidity Issues, Complex process of buying overseas, and high fees associated with it all(4). Currently, there are factors to the process of selling, renting, or owning a property that add value to the already high fees of entering and exiting a property sale. For the buyer, these fees can equate to a 2-5% increase of the purchasing price with all processes considered. Placing and tokenizing these assets onto a smart contract can eliminate some of the fees associated with basic R.E. transactions. Global Real Estate is no different and can even experience more fees and delayes in processing. With the use of the blockchain LABS uses, instant settlement & automation of document processing can make for a more efficient & less cost transaction. LABS differs from REITs in Four significant ways
+
+    1. REITs are listed on the Stock Exchange, which is limited to business hours trading
+window. Once the assets tokens are listed on a security token exchange, it
+becomes tradable 24 hours a day 7 days a week.
+
+    2. REITs are designed around single investment types (e.g., commercial, residential).
+With LABS digitized asset tokens, opprtunity opens for a more diversified real estate portfolio.
+
+    3. REITs typically come with many expenses that are passed along to individual
+investors. With digitized asset tokens, LABs anticpates lower expenses, resulting in
+more profit for the token holders.
+
+    4. REITs have many limitations and restrictions, such as who can and cannot invest.
+The decisions are left in the hands of investment managers which dictate what
+happens to your investment. Effectively taking control away from the investor.
+
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
-The companies intended customer are Individual and Insititutional Real Estate Investors. Traditionally, Real estate investments to develop commercial assets have been
-dominated by institutional investors. Individual investors are typically limited to residential properties (3). LABS intends to extend the market participation by acknowledging these key pain points in Real Estate Investing; High Entry and Exit costs, REITS (sellable only to local markets), Difficult Access to a Global Portfolio, Liquidity Issues, Complex process of buying overseas, and high fees associated with it all(4). Market size would be right around 320.78 Trillion. This information is consistent with HSBC's report in 2016 Global Real Estate Investment was valued at 228 million and was expected to increase 5% year after year (5). 
+The companies intended customer are Individual and Insititutional Real Estate Investors.  Market size would be right around 320.78 Trillion (Laregt asset class in the world). This information is consistent with HSBC's report in 2016 Global Real Estate Investment was valued at 228 million and was expected to increase 5% year after year (5).
 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) 
@@ -84,13 +99,13 @@ Reference
 2 = https://www.linkedin.com/in/bernard-lau-27667520/
 3 = file:///C:/Users/Gino/Downloads/LABS_Whitepaper_eng.pdf
 4 = file:///C:/Users/Gino/Downloads/LABS_Whitepaper_eng.pdf (pg.5)
+5 = 
 5 = file:///C:/Users/Gino/Downloads/LABS_Whitepaper_eng.pdf (pg 8)
-6=https://labsgroupio.medium.com/#:~:text=As%20part%20of%20the%20big,DeFi%20and%20a%20DEX%20ecosystem%E2%80%A6
+6 = https://labsgroupio.medium.com/#:~:text=As%20part%20of%20the%20big,DeFi%20and%20a%20DEX%20ecosystem%E2%80%A6
 7 = https://labsgroupio.medium.com/labs-group-internal-ama-bnb-migration-recap-9cce935eaee2
 8 = https://labsgroup.io/owners-circle/
 9 = https://labsgroup.io/owners-circle/#
-9
-10
+10 = https://bpfund.com/how-much-are-buyer-closing-costs/#:~:text=These%20costs%20include%20such%20things,5%25%20of%20the%20purchase%20price.
 11
 12
 13

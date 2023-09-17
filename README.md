@@ -28,13 +28,13 @@ Crowd funding was the primary source of funding where they amounted 12.1 million
  
 Traditionally, Real estate investments to develop commercial assets have been dominated by institutional investors. Individual investors are typically limited to residential properties (3). LABS intends to extend market participation by resolving these key pain points in Real Estate Investing; High Entry and Exit costs, REITS (sellable only to local markets), Difficult Access to a Global Portfolio, Liquidity Issues, Complex process of buying overseas, and high fees associated with it all(4). Currently, there are factors to the process of selling, renting, or owning a property that add value to the already high fees of entering and exiting a property sale. For the buyer, these fees can equate to a 2-5% increase of the purchasing price with all processes considered. Placing and tokenizing these assets onto a smart contract can eliminate some of the fees associated with basic R.E. transactions. Global Real Estate is no different and can even experience more fees and delayes in processing. With the use of the blockchain LABS uses, instant settlement & automation of document processing can make for a more efficient & less cost transaction. LABS differs from REITs in Four significant ways
 
-    REITs are listed on the Stock Exchange, which is limited to business hours trading window. Once the assets tokens are listed on a security token exchange, it becomes tradable 24 hours a day 7 days a week.
+REITs are listed on the Stock Exchange, which is limited to business hours trading window. Once the assets tokens are listed on a security token exchange, it becomes tradable 24 hours a day 7 days a week.
 
-    REITs are designed around single investment types (e.g., commercial, residential). With LABS digitized asset tokens, opprtunity opens for a more diversified real estate portfolio.
+REITs are designed around single investment types (e.g., commercial, residential). With LABS digitized asset tokens, opprtunity opens for a more diversified real estate portfolio.
 
-    REITs typically come with many expenses that are passed along to individual investors. With digitized asset tokens, LABs anticpates lower expenses, resulting in more profit for the token holders.
+REITs typically come with many expenses that are passed along to individual investors. With digitized asset tokens, LABs anticpates lower expenses, resulting in more profit for the token holders.
 
-    REITs have many limitations and restrictions, such as who can and cannot invest. The decisions are left in the hands of investment managers which dictate what happens to the investors investment. Effectively taking control away from the investor.
+REITs have many limitations and restrictions, such as who can and cannot invest. The decisions are left in the hands of investment managers which dictate what happens to the investors investment. Effectively taking control away from the investor.
 
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?

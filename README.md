@@ -4,7 +4,7 @@
 ## Overview and Origin
 * What is the name of the company?    
 
-The name of the company I chose for this challenge was LABS (Liquid Asset Borkerage System). The domain they operate in is Decentralized Cryptocurrency. LABS is a real estate investment digital ecosystem.
+The name of the company I chose for this challenge is LABS (Liquid Asset Borkerage System). The domain they operate in is Decentralized Cryptocurrency. LABS is a real estate investment digital ecosystem.
 
 * When was the company incorporated?
 
@@ -24,11 +24,14 @@ Crowd funding was the primary source of funding where they amounted 12.1 million
 
 ## Business Activities
 
-* !!!The problems they are working on resolving is the entry barrier to enter the real estate investment industry./. The current Real Estate products widley available such as REIT, E
+*What specific financial problem is the company or project trying to solve?
+ 
+The problems they are working on resolving is the entry barrier to enter the real estate investment industry./. The current Real Estate products widley available such as REIT, E
 
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
 The companies intended customer are Individual and Insititutional Real Estate Investors. Traditionally, Real estate investments to develop commercial assets have been
-    dominated by institutional investors. Individual investors are typically limited to residential properties (3). LABS intends to extend the market participation by acknowledging these key pain points in Real Estate Investing; High Entry and Exit costs, REITS (sellable only to local markets), Difficult Access to a Global Portfolio, Liquidity Issues, Complex process of buying overseas, and high fees associated with it all(4). Market size would be right around 320.78 Trillion. This information is consistent with HSBC's report in 2016 Global Real Estate Investment was valued at 228 million and was expected to increase 5% year after year (5). 
+dominated by institutional investors. Individual investors are typically limited to residential properties (3). LABS intends to extend the market participation by acknowledging these key pain points in Real Estate Investing; High Entry and Exit costs, REITS (sellable only to local markets), Difficult Access to a Global Portfolio, Liquidity Issues, Complex process of buying overseas, and high fees associated with it all(4). Market size would be right around 320.78 Trillion. This information is consistent with HSBC's report in 2016 Global Real Estate Investment was valued at 228 million and was expected to increase 5% year after year (5). 
 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) 

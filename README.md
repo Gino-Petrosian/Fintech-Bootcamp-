@@ -12,7 +12,7 @@ The company was incorporated in 2018.
 
 * Who are the founders of the company?
 
-LABS was founded by Yueng Wong. Yueng Wong has his MBA in Corporate Entreprenuership, is involved in several startups including e-commerce and professional services. He also specializes in business strategy and development, go-to-market strategic planning, and is well connected and resourceful. (2)  Alongside LABS, he also Advises many sucessful Blockchain projects. The projects he currently is collarboating and advising for is Dreams.Quest, Exverse.io, Bitmart, & GEMS Gameing and Esports platform 3.0. He is very well versed in the cryptocurrency domain and appears to be the right partner in the journey to tokenize real estate (Not to mention his experience as a managing partner of a real estate advisory firm named Ayana Properties)
+LABS was founded by Yuen Wong. Yueng Wong has his MBA in Corporate Entreprenuership, is involved in several startups including e-commerce and professional services. He also specializes in business strategy and development, go-to-market strategic planning, and is well connected and resourceful. (2)  Alongside LABS, he also Advises many sucessful Blockchain projects. The projects he currently is collarboating and advising for is Dreams.Quest, Exverse.io, Bitmart, & GEMS Gameing and Esports platform 3.0. He is very well versed in the cryptocurrency domain and appears to be the right partner in the journey to tokenize real estate (Not to mention his experience as a managing partner of a real estate advisory firm named Ayana Properties)
 
 * How did the idea for the company (or project) come about?
     

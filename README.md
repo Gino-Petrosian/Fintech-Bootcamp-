@@ -16,11 +16,11 @@ LABS was founded by Yuen Wong. Yueng Wong has his MBA in Corporate Entreprenuers
 
 * How did the idea for the company (or project) come about?
     
-The idea generated from the high cost to entry barrier in Real Estate Investing. They are fostering a method that can result in greater market participation amongst consumers in financial positions limiting their access. Because of they're method for Investing, they are disrupting real estate through the world’s first end to end real estate investment ecosystem by fractionalizing real estate investments.
+The idea generated from the high cost to entry barrier in Real Estate Investing. They are fostering a method that can result in greater market participation amongst Individual & Institutional investors. Because of they're method for Investing, they are disrupting real estate through the world’s first end to end real estate investment ecosystem by fractionalizing real estate investments.
 
 * How is the company funded? How much funding have they received?
 
-Initially, the project was funded by Yuen Wong and his parter for the first 2 years (14). Yuen Wong discloses he recieved funding after this point (according to crunchbase, they have a total of 5 investors in the project (12)) but shifted its primary funding to the IDO in 2021. The IDO raised 12.1M USD when it was released. As of 09/17/2023 theyre current market capitalization is $829,437 (13). 
+Initially, the project was funded by Yuen Wong and his parter for the first 2 years (14). Yuen Wong discloses he recieved funding after this point (according to crunchbase, they have a total of 5 investors in the project (12)) but shifted its primary funding to the IDO in 2021. The IDO raised 12.1M USD when it was released. As of 09/17/2023 they're current market capitalization is $829,437 (13). 
 
 ## Business Activities
 

@@ -56,11 +56,12 @@ Funds accrued in the wallet address will be invested into separate verticals of 
 ## LandscapeAnything Fi
 
 * What domain of the financial industry is the company in?
+
 The domain LABS is under is actually 2 within the financial industry. Crytpo-currency and Real Estate. 
 
 * What have been the major trends and innovations of this industry in the past 5-10 years?
 
-The most significant innovation sweeping the real estate industry is the prcoess of Tokenization. Tokenization allows the user to digitze their tangible asset and fractionalize it into digital coins. The asset backed coin sheds the partial value of the asset where the total circulating supply for that asset is equeak to the par value of the property. This minimized the entry barrier for ral estate investing as it allows users to invest in property without committing large amounts of risk into their portfolio. Their true risk tolerance became more definable with tokenization.
+The most significant innovation sweeping the real estate industry is the prcoess of Tokenization. Tokenization allows the user to digitize their tangible asset and fractionalize it into digital coins. The asset backed coin sheds the partial value of the asset where the total circulating supply for that asset is equal to the par value of the property. This minimized the entry barrier for real estate investing as it allows users to invest in property without committing large amounts of risk in their portfolio. Their true risk tolerance became more definable with tokenization.
 
 
 * What are the other major companies in this domain?

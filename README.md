@@ -61,11 +61,12 @@ The domain LABS is under is actually 2 within the financial industry. Crytpo-cur
 
 * What have been the major trends and innovations of this industry in the past 5-10 years?
 
-The most significant innovation sweeping the real estate industry is the prcoess of Tokenization. Tokenization allows the user to digitize their tangible asset and fractionalize it into digital coins. The asset backed coin sheds the partial value of the asset where the total circulating supply for that asset is equal to the par value of the property. This minimized the entry barrier for real estate investing as it allows users to invest in property without committing large amounts of risk in their portfolio. Their true risk tolerance became more definable with tokenization.
+The most significant innovation sweeping the real estate industry is Tokenization. Tokenization allows the user to digitize their tangible asset and fractionalize it into digital coins. The asset backed coin sheds the partial value of the asset where the total circulating supply for that asset is equal to the par value of the property. This minimized the entry barrier for real estate investing as it allows users to invest in property without committing large amounts of risk in their portfolio. Their true risk tolerance became more definable with tokenization.
 
 
 * What are the other major companies in this domain?
-
+other major companies in that domain include the comapny named RealT. They host a similar business model to that of LABS but theyre main differenciating factor is theyre target audience. They aim to serve the international investor by providing a streamline of investment opportunities, a wider variety of real estate locations
+tors wanting to invest into the U.S. through digitization
 
 ## Results
 

@@ -57,7 +57,7 @@ Funds accrued in the wallet address will be invested into separate verticals of 
 
 * What domain of the financial industry is the company in?
 
-The domain LABS is under is actually 2 within the financial industry. Crytpo-currency and Real Estate. 
+The domain LABS is under is Crytpo-currency and Real Estate. 
 
 * What have been the major trends and innovations of this industry in the past 5-10 years?
 The most significant innovation sweeping the real estate industry is Tokenization. Tokenization allows the user to digitize their tangible asset and fractionalize it into digital coins. The asset backed coin sheds the partial value of the asset where the total circulating supply for that asset is equal to the par value of the property. This minimized the entry barrier for real estate investing as it allows users to invest in property without committing large amounts of risk in their portfolio. Their true risk tolerance became more definable with tokenization.
@@ -65,7 +65,7 @@ The most significant innovation sweeping the real estate industry is Tokenizatio
 
 * What are the other major companies in this domain?
 Other major companies mixing Real Estate with crypto currency is Propy, RealT, & Mattereum [15]. Each of these companies run independent of eachother.
-They host similar business models to that of LABS. Propy offers a more defined and specific service rewlted to the sale and purchasing of ne property. While propy has focused on automating paper work, LABS handles it in house. but theyre main differenciating factor is theyre target audience. Real T aims to serve the international investor by providing a streamline of investment opportunities; a wider variety of real estate locations for those wanting to invest into the U.S. through digitzation. 
+They host similar business models to that of LABS. Propy offers a more defined and specified service related to the sale and purchasing of property. Propy is an automation compmay where they focus on the paper work side of the industry. Rather than the tradional method of closing or selling a property where the finalizing process can be very time draining, an automated form process for more timely processing of these sales and purchases allows for a faster sale and better access to liquidity. LABS handles it in house. ADD AFTER Mattereum but theyre main differenciating factor is theyre target audience. Real T aims to serve the international investor by providing a streamline of investment opportunities; a wider variety of real estate locations for those wanting to invest into the U.S. through digitzation. 
 
 ## Results
 

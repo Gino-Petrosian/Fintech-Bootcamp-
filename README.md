@@ -64,9 +64,8 @@ The most significant innovation sweeping the real estate industry is Tokenizatio
 
 
 * What are the other major companies in this domain?
-Other major companies mixing Real Estate with crypto currency is Propy, RealT, & Mattereum [15]. Each of these companies run independent of eachother 
- They host a similar business model to that of LABS but theyre main differenciating factor is theyre target audience. They aim to serve the international investor by providing a streamline of investment opportunities, a wider variety of real estate locations
-tors wanting to invest into the U.S. through digitization
+Other major companies mixing Real Estate with crypto currency is Propy, RealT, & Mattereum [15]. Each of these companies run independent of eachother.
+They host similar business models to that of LABS. Propy offers a more defined and specific service rewlted to the sale and purchasing of ne property. While propy has focused on automating paper work, LABS handles it in house. but theyre main differenciating factor is theyre target audience. Real T aims to serve the international investor by providing a streamline of investment opportunities; a wider variety of real estate locations for those wanting to invest into the U.S. through digitzation. 
 
 ## Results
 
@@ -108,6 +107,6 @@ Reference
 13 = https://coinmarketcap.com/currencies/labs-group/
 14 = https://www.youtube.com/watch?v=vKx-CxO-MU0
 15 = Chat GPT-4 (Question: "What are some of the other companies/ projects similar to LABS group that is changing the way real estate transactions are executed?")
-
+16 = 
 
 Chat GPT (Question: )

@@ -64,8 +64,9 @@ The most significant innovation sweeping the real estate industry is Tokenizatio
 
 
 * What are the other major companies in this domain?
-Other major companies mixing Real Estate with crypto currency is Propy, RealT, & Mattereum [15]. Each of these companies run independent of eachother.
-They host similar business models to that of LABS. Propy offers a more defined and specified service related to the sale and purchasing of property. Propy is an automation compmay where they focus on the paper work side of the industry. Rather than the tradional method of closing or selling a property where the finalizing process can be very time draining, an automated form process for more timely processing of these sales and purchases allows for a faster sale and better access to liquidity. LABS handles it in house. ADD AFTER Mattereum but theyre main differenciating factor is theyre target audience. Real T aims to serve the international investor by providing a streamline of investment opportunities; a wider variety of real estate locations for those wanting to invest into the U.S. through digitzation. 
+Other major companies mixing Real Estate with crypto currency is Propy, RealT, & Mattereum [15]. Each of these companies are independent of eachother. They don’t rely on each other to conduct their business. This company is Propy. Propy offers a more defined and specified service related to the sale and purchasing of property. Propy is an automation company where they focus on the paper work side of the industry. Rather than signing papers and conducting the sale the tradional method where mortgage underwriting and escrow can take Weeks - Months before completion. Propy aims to automate the process to cut the time and gain access to liquidity faster. LABS handles this in house. 
+The other competitors hosting similar business models to that of LABS but theyre main differenciating factor is theyre target audience. Real T aims to serve the international investor by providing a streamline of investment opportunities into the U.S. through digitzation. Although, they are creating a new service offered under the same name for U.S. customers. 
+
 
 ## Results
 

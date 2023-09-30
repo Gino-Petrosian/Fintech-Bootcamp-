@@ -110,4 +110,6 @@ Reference
 15 = Chat GPT-4 (Question: "What are some of the other companies/ projects similar to LABS group that is changing the way real estate transactions are executed?")
 16 = 
 
+Updated
+
 Chat GPT (Question: )

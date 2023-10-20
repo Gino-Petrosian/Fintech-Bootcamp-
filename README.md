@@ -101,10 +101,10 @@ Reference
 
 1 = https://www.crunchbase.com/organization/labs-group
 2 = https://www.linkedin.com/in/bernard-lau-27667520/
-3 = file:///C:/Users/Gino/Downloads/LABS_Whitepaper_eng.pdf
-4 = file:///C:/Users/Gino/Downloads/LABS_Whitepaper_eng.pdf (pg.5)
-5 = file:///C:/Users/Gino/Downloads/LABS_Whitepaper_eng.pdf (pg.9)
-6 = file:///C:/Users/Gino/Downloads/LABS_Whitepaper_eng.pdf (pg 8)
+3 = LABS Whitelist in resource folder
+4 = LABS Whitelist in resource folder (pg.5)
+5 = LABS Whitelist in resource folder (pg.9)
+6 = LABS Whitelist in resource folder (pg 8)
 7 = https://labsgroupio.medium.com/#:~:text=As%20part%20of%20the%20big,DeFi%20and%20a%20DEX%20ecosystem%E2%80%A6
 8 = https://labsgroupio.medium.com/labs-group-internal-ama-bnb-migration-recap-9cce935eaee2
 9 = https://labsgroup.io/owners-circle/

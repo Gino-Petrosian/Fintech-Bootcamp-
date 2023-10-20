@@ -4,11 +4,11 @@
 ## Overview and Origin
 * What is the name of the company?    
 
-The name of the company I chose for this challenge is LABS (Liquid Asset Borkerage System). The domain they operate in is Decentralized Cryptocurrency. LABS is a real estate investment digital ecosystem.
+The name of the company I chose for this challenge is LABS (Liquid Asset Borkerage System). LABS is a real estate investment digital ecosystem.
 
 * When was the company incorporated?
 
-The company was incorporated in 2018.
+The company was incorporated in 2018.(1)
 
 * Who are the founders of the company?
 
@@ -56,7 +56,6 @@ Funds accrued in the wallet address will be invested into separate verticals of 
 ## LandscapeAnything Fi
 
 * What domain of the financial industry is the company in?
-
 The domain LABS is under is Crytpo-currency and Real Estate. 
 
 * What have been the major trends and innovations of this industry in the past 5-10 years?
@@ -64,36 +63,43 @@ The most significant innovation sweeping the real estate industry is Tokenizatio
 
 
 * What are the other major companies in this domain?
-Other major companies mixing Real Estate with crypto currency is Propy, RealT, & Mattereum [15]. Each of these companies are independent of eachother. They don’t rely on each other to conduct their business. This company is Propy. Propy offers a more defined and specified service related to the sale and purchasing of property. Propy is an automation company where they focus on the paper work side of the industry. Rather than signing papers and conducting the sale the tradional method where mortgage underwriting and escrow can take Weeks - Months before completion. Propy aims to automate the process to cut the time and gain access to liquidity faster. LABS handles this in house. 
-The other competitors hosting similar business models to that of LABS but theyre main differenciating factor is theyre target audience. Real T aims to serve the international investor by providing a streamline of investment opportunities into the U.S. through digitzation. Although, they are creating a new service offered under the same name for U.S. customers. 
+Other major companies mixing Real Estate with crypto currency is Propy, RealT, & Mattereum (15). Each of these companies are independent of eachother. Propy offers a more defined and specified service related to the sale and purchasing of property. They're main function in the marketplace is automation in the backend processes related to the sale and transfer of the property. They aim to remove the stacks of papers involved in the sale and transfer of property where mortgage underwriting and escrow can take weeks to process all along with access to liquidity at a faster rate(16). Another more direct competitor hosting similar business models to that of LABS is RealT. Theyre main differenciating factor amongst eachother but more importantly to LABs group is theyre target audience. RealT aims to serve the international investor by providing a streamline of digitized real estate investment opportunities into the U.S..(17) Limited to international investors, they are launching a new service for U.S. customers.
+
+    
 
 
 ## Results
 
 * What has been the business impact of this company so far?
-Hospitality industry has been tapped into with the NFT's and Tent, Emirates Partnership
+LABS Group appears to strive for market participation, global resort style real estate investing and merging traditionial investing methods. To date, LABS has innovated use cases for NFT's by partnering with so far the Emirates soccer team as well as a Resort in Dubai. With certain NFT's you can earn rewards described earlier in this analysis of LABS Group. Financially, LABS does not appear to be struggling. While their market share price is currently near its lowest price(18), they have done giveaways for their supporters in the project where they would give 2,000USD. Investors are neutral with business oulook. TThere has been investments made in Physical real estate showing as a company asset.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Because this is a cryptocurrency project we need to consider basic tokenomics in part of out metrics measurig success. 
+Metrics involved in measuring succes would inlcude Token Liqudity, Asset Appreciation, Token Adoption, Compliance and Regulation, Market Capitalization Token price, and Community Engagement. LABS Group is doing a pheonomenal in these metrics, They're biggest slack across these metrics is its Token price. They joined the market with a Token price as high as 06 cents. Currently, their token price is near its lowest price. 
+This is due to the fact that their main attraction to their project has not bewen reached yet. They anticipate their Real Estate Investing Exchange. While they have launched other serivces. Theyre real estate exchange would have the biggest impact on their Token price outlook.
 
 * How is your company performing relative to competitors in the same domain?
-
+Competitors relative to labs are currently positioned better in the marketplace. When considering the current position of LABS Group relative to their compteitors in todays marketplace, they are significantly lower. Significant differences are observed due to the comparison of the seperate goals. While LABS aim is to drive investing in real estate resort style commercial styled properties, theyre goal is to release the first Real Estate digitized trading exchange similar to the stock market as described earlier in this Analysis. With competitors in the pursuit of enhanced efficiency and opportunities, LABS aims to foster innovation and reimagine the conventional running wheel by integrating todays technological advancements. Understandably LABS is in a smaller position relative to market size and analytics but they have something bigger being worked on that can drive them a industrial leader in Real Estate Digitization.
 
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+If there was one thing I could offer that they may already be doing just being left under the radar. I would suggest implement residential investing as this would unveil a large portion of the market that would amplify their marekt reach. 
 
 * Why do you think that offering this product or service would benefit the company?
+I believe it is a great route they are taking as they are assuring liquidity by opening investing opportunity in low risk real estate assets but it is a huge industry valued at $1.5 Trillion(19), the residential real estate industry is the larget class of Relal Estate properties. Its no wonder why as the largest class they are valued at 47 Trillion in June of 2023(20) 
 
 * What technologies would this additional product or service utilize?
+I dont think it would be a matter of tewchnology as they would use the same digitization methods used to digitze other types of real estate property. I believe it would more so be a matter of establishing the necessary connections to be able to acomplish such a greast stride. I believe emulating and taking actions as a regulatory body initself would also lead to great success as all these hard assets being linked together in a marekting trading envionrnment when built on bad frame works can open and leave room for detrimental effects on local and possibly national economies. Maybe a type of regulation rather than technology I think would be needed is a decentralzied region style frame work for local economies particpating in the trading activity be managed by a group of board members overwatching local economical analytics and assuring liquidity is always there.
 
 * Why are these technologies appropriate for your solution?
-
+I think my regulatory recommendation would be necessary to avoid another crash in the housing markets due to examples such as lack of liquidity or lack of solid frameworks leading to inefficiencies. 
 
 
 Reference
 
-1
+1 = https://www.crunchbase.com/organization/labs-group
 2 = https://www.linkedin.com/in/bernard-lau-27667520/
 3 = file:///C:/Users/Gino/Downloads/LABS_Whitepaper_eng.pdf
 4 = file:///C:/Users/Gino/Downloads/LABS_Whitepaper_eng.pdf (pg.5)
@@ -108,8 +114,8 @@ Reference
 13 = https://coinmarketcap.com/currencies/labs-group/
 14 = https://www.youtube.com/watch?v=vKx-CxO-MU0
 15 = Chat GPT-4 (Question: "What are some of the other companies/ projects similar to LABS group that is changing the way real estate transactions are executed?")
-16 = 
-
-Updated
-
-Chat GPT (Question: )
+16 = http://propy.com/home/
+17 = https://realt.co/marketplace/
+18 = TradingView LABS coin Weekly Time Frame Chart Analysis
+19 = https://www.ibisworld.com/global/market-research-reports/global-hotels-resorts-industry/#KeyStatistics
+20 = https://www.benoitproperties.com/news/total-value-of-all-us-residential-real-estate-hits-record-47-trillion/#:~:text=The%20U.S.%20housing%20market%20has,insights%20into%20this%20increased%20demand.

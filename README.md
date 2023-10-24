@@ -97,25 +97,25 @@ I dont think it would be a matter of tewchnology as they would use the same digi
 I think my regulatory recommendation would be necessary to avoid another crash in the housing markets due to examples such as lack of liquidity or lack of solid frameworks leading to inefficiencies. 
 
 
-Reference
+## Reference
 
-1 = https://www.crunchbase.com/organization/labs-group
-2 = https://www.linkedin.com/in/bernard-lau-27667520/
-3 = Fintech-Bootcamp-\README Resource\LABS_Whitepaper_eng.pdf
-4 = Fintech-Bootcamp-\README Resource\LABS_Whitepaper_eng.pdf (pg.5)
-5 = Fintech-Bootcamp-\README Resource\LABS_Whitepaper_eng.pdf (pg.9)
-6 = Fintech-Bootcamp-\README Resource\LABS_Whitepaper_eng.pdf (pg 8)
-7 = https://labsgroupio.medium.com/#:~:text=As%20part%20of%20the%20big,DeFi%20and%20a%20DEX%20ecosystem%E2%80%A6
-8 = https://labsgroupio.medium.com/labs-group-internal-ama-bnb-migration-recap-9cce935eaee2
-9 = https://labsgroup.io/owners-circle/
-10 = https://labsgroup.io/owners-circle/#
-11 = https://bpfund.com/how-much-are-buyer-closing-costs/#:~:text=These%20costs%20include%20such%20things,5%25%20of%20the%20purchase%20price.
-12 = https://www.crunchbase.com/organization/labs-group
-13 = https://coinmarketcap.com/currencies/labs-group/
-14 = https://www.youtube.com/watch?v=vKx-CxO-MU0
-15 = Chat GPT-4 (Question: "What are some of the other companies/ projects similar to LABS group that is changing the way real estate transactions are executed?")
-16 = http://propy.com/home/
-17 = https://realt.co/marketplace/
-18 = TradingView LABS coin Weekly Time Frame Chart Analysis
-19 = https://www.ibisworld.com/global/market-research-reports/global-hotels-resorts-industry/#KeyStatistics
-20 = https://www.benoitproperties.com/news/total-value-of-all-us-residential-real-estate-hits-record-47-trillion/#:~:text=The%20U.S.%20housing%20market%20has,insights%20into%20this%20increased%20demand.
+*1 = https://www.crunchbase.com/organization/labs-group
+*2 = https://www.linkedin.com/in/bernard-lau-27667520/
+*3 = Fintech-Bootcamp-\README Resource\LABS_Whitepaper_eng.pdf
+*4 = Fintech-Bootcamp-\README Resource\LABS_Whitepaper_eng.pdf (pg.5)
+*5 = Fintech-Bootcamp-\README Resource\LABS_Whitepaper_eng.pdf (pg.9)
+*6 = Fintech-Bootcamp-\README Resource\LABS_Whitepaper_eng.pdf (pg 8)
+*7 = https://labsgroupio.medium.com/#:~:text=As%20part%20of%20the%20big,DeFi%20and%20a%20DEX%20ecosystem%E2%80%A6
+*8 = https://labsgroupio.medium.com/labs-group-internal-ama-bnb-migration-recap-9cce935eaee2
+*9 = https://labsgroup.io/owners-circle/
+*10 = https://labsgroup.io/owners-circle/#
+*11 = https://bpfund.com/how-much-are-buyer-closing-costs/#:~:text=These%20costs%20include%20such%20things,5%25%20of%20the%20purchase%20price.
+*12 = https://www.crunchbase.com/organization/labs-group
+*13 = https://coinmarketcap.com/currencies/labs-group/
+*14 = https://www.youtube.com/watch?v=vKx-CxO-MU0
+*15 = Chat GPT-4 (Question: "What are some of the other companies/ projects similar to LABS group that is changing the way real estate transactions are executed?")
+*16 = http://propy.com/home/
+*17 = https://realt.co/marketplace/
+*18 = TradingView LABS coin Weekly Time Frame Chart Analysis
+*19 = https://www.ibisworld.com/global/market-research-reports/global-hotels-resorts-industry/#KeyStatistics
+*20 = https://www.benoitproperties.com/news/total-value-of-all-us-residential-real-estate-hits-record-47-trillion/#:~:text=The%20U.S.%20housing%20market%20has,insights%20into%20this%20increased%20demand.

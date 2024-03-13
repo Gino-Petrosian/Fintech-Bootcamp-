@@ -41,6 +41,7 @@ def get_web3():
     return Web3(Web3.HTTPProvider("HTTP://127.0.0.1:7545"))
 
 w3 = get_web3
+
 ################################################################################
 # Step 1:
 # Import Ethereum Transaction Functions into the KryptoJobs2Go Application
@@ -102,28 +103,28 @@ from crypto_wallet import generate_account, get_balance, send_transaction
 candidate_database = {
     "Lane": [
         "Lane",
-        "0xaC8eB8B2ed5C4a0fC41a84Ee4950F417f67029F0",
+        "0x04827AAf26D8e9c1fD2F5D9405546d0B680DdE6b",
         "4.3",
         0.20,
         "Images/lane.jpeg",
     ],
     "Ash": [
         "Ash",
-        "0x2422858F9C4480c2724A309D58Ffd7Ac8bF65396",
+        "0x9355dE3F2db7D340170E22BE62be21814C59214E",
         "5.0",
         0.33,
         "Images/ash.jpeg",
     ],
     "Jo": [
         "Jo",
-        "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45",
+        "0x1259f44734fbaE38d607Aed53c4CF1CebD28C29C",
         "4.7",
         0.19,
         "Images/jo.jpeg",
     ],
     "Kendall": [
         "Kendall",
-        "0x8fD00f170FDf3772C5ebdCD90bF257316c69BA45",
+        "0x6A98135e0e3F3482A191500082Ae46373F4e6d90",
         "4.1",
         0.16,
         "Images/kendall.jpeg",
@@ -278,13 +279,12 @@ st.sidebar.markdown("## Total Wage in Ether")
 # value of the `hours` variable
 # Calculate total wage for the candidate
 wage = candidate_database[person][3] * hours  # Hourly rate multiplied by the number of hours
-st.sidebar.write(f"Total Wage in Ether: {wage}")
+
 
 
 # @TODO
 # Write the `wage` calculation to the Streamlit sidebar
-# Calculate total wage for the candidate
-wage = candidate_database[person][3] * hours  # Hourly rate multiplied by the number of hours
+# Calculate total wage for the candidate+
 st.sidebar.write(f"Total Wage in Ether: {wage}")
 
 
